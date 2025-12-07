@@ -1,6 +1,6 @@
 # ScrollBox
 
-![npm version](https://img.shields.io/npm/v/jquery-scrollbox?label=npm&logo=npm)](https://www.npmjs.com/package/jquery-scrollbox)
+[![npm version](https://img.shields.io/npm/v/@wmh/scrollbox?label=npm&logo=npm)](https://www.npmjs.com/package/@wmh/scrollbox)
 [![Zero Dependencies](https://img.shields.io/badge/dependencies-0-brightgreen)](https://github.com/wmh/scrollbox)
 [![Vanilla JS](https://img.shields.io/badge/vanilla-JS-yellow)](https://github.com/wmh/scrollbox)
 [![TypeScript](https://img.shields.io/badge/types-TypeScript-blue)](https://github.com/wmh/scrollbox)
@@ -9,7 +9,7 @@
 
 **Version 2.0** - Modern vanilla JavaScript scrolling plugin 🎉
 
-> **📦 Note**: This package is available on npm as `jquery-scrollbox` for historical reasons. The GitHub repository has been renamed to `scrollbox` to better reflect its modern, dependency-free nature.
+> **📦 Note**: This package is available on npm as `@wmh/scrollbox`. It's a modern, dependency-free vanilla JavaScript library with optional jQuery support for backward compatibility.
 
 ScrollBox is a lightweight, zero-dependency plugin that enables you to scroll a list of HTML elements (text, images, etc.) like a carousel slider or traditional marquee. Built with modern ES6+ JavaScript with optional jQuery support for backward compatibility.
 
@@ -33,14 +33,14 @@ ScrollBox is a lightweight, zero-dependency plugin that enables you to scroll a 
 
 ### NPM
 ```bash
-npm install jquery-scrollbox
+npm install @wmh/scrollbox
 ```
 
-> **Note**: The package name is `jquery-scrollbox` for historical reasons, but it's now a **modern vanilla JavaScript library** with no dependencies!
+> **Note**: This is a **modern vanilla JavaScript library** with zero dependencies! Optional jQuery wrapper included for backward compatibility.
 
-### CDN (Coming soon)
+### CDN
 ```html
-<script src="https://cdn.jsdelivr.net/npm/jquery-scrollbox@2/dist/scrollbox.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@wmh/scrollbox@2/dist/scrollbox.min.js"></script>
 ```
 
 ### Direct Download
