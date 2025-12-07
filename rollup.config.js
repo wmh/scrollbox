@@ -1,4 +1,4 @@
-import { terser } from '@rollup/plugin-terser';
+import terser from '@rollup/plugin-terser';
 import { nodeResolve } from '@rollup/plugin-node-resolve';
 
 export default {
@@ -7,8 +7,7 @@ export default {
     {
       file: 'dist/scrollbox.js',
       format: 'umd',
-      name: 'ScrollBox',
-      exports: 'default'
+      name: 'ScrollBox'
     },
     {
       file: 'dist/scrollbox.esm.js',
