@@ -1,6 +1,6 @@
 {
   "name": "@wmh/scrollbox",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Modern vanilla JavaScript scrollbox plugin for carousels and marquees. Zero dependencies. jQuery wrapper included for backward compatibility.",
   "homepage": "https://github.com/wmh/scrollbox",
   "main": "scrollbox.js",
